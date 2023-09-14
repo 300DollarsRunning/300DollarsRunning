@@ -16,13 +16,12 @@
       <img src="https://img.shields.io/badge/Website-博客-blue" />
     </a>
     &emsp;
-    <a href="https://a328z11109.imdo.co//">
+    <a href="https://a328z11109.imdo.co/">
       <img src="https://img.shields.io/badge/Website-博客-blue" />
     </a>
     &emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+    <img src="https://komarev.com/ghpvc/?username=300DollarsRunning&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 </div>
