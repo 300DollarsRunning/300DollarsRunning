@@ -130,10 +130,11 @@ mindmap
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![idea Badge](https://img.shields.io/badge/idea-007ACC?logo=idea&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Adobe Premiere Pro Badge](https://shields.io/badge/Adobe%20PremierePro-31A8FF?logo=adobepremierepro&logoColor=fff&style=flat)
-![Adobe After Effects Badge](https://shields.io/badge/Adobe%20AfterEffects-31A8FF?logo=adobeaftereffects&logoColor=fff&style=flat)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-007ACC?logo=intellijidea&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Gitee Badge](https://img.shields.io/badge/Gitee-E40013?logo=gitee&logoColor=fff&style=flat)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-001E36?logo=adobephotoshop&logoColor=fff&style=flat)
+![Adobe Premiere Pro Badge](https://shields.io/badge/Adobe%20PremierePro-00005B?logo=adobepremierepro&logoColor=fff&style=flat)
+![Adobe After Effects Badge](https://shields.io/badge/Adobe%20AfterEffects-00005B?logo=adobeaftereffects&logoColor=fff&style=flat)
 
 </div>
